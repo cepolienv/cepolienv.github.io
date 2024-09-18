@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cepolienv.github.io/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/app/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/assets/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/css/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/includes/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/item/sitemap.html.gz
+Sitemap: https://cepolienv.github.io/src/sitemap.html.gz
